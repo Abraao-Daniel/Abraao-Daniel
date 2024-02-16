@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Abraao-Daniel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 I’m interested in Fullstack Development 
+- 👨🏽‍💻 I’m currently learning Node , Php and Python
+- 🔍 I’m looking to collaborate on  Web Projects and Mobile apps
 
-<!---
-Abraao-Daniel/Abraao-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Uploading Captura de Tela (36).png…]()
+
