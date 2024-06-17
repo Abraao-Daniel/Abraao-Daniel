@@ -3,5 +3,5 @@
 - 👨🏽‍💻 I’m currently learning Node , Php and Python
 - 🔍 I’m looking to collaborate on  Web Projects and Mobile apps
 
-![Uploading Captura de Tela (36).png…]()
+
 
